@@ -1,4 +1,4 @@
-# Makaan.com_RealEstate_DataScrabed
+# Makaan.com_RealEstate_DataScrapping
 Webscrapping of 50 pages of Pune city Real Estate data from Makaan.com
 
 ## Programming Language 
