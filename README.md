@@ -21,7 +21,7 @@ PYTHON3
 8. Price per sqft
 
 ## Data Source
-web page = https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city
+web page = https://www.makaan.com/pune-residential-property/buy-property-in-pune-city
 
 ## Contents of repository
 1. Program for web scrapping 
